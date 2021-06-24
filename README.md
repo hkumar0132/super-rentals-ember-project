@@ -20,6 +20,8 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
+* Obtain a token from [https://www.mapbox.com/](Mapbox).
+* Put this token in config/environment.js on line 50
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
